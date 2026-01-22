@@ -129,6 +129,7 @@
 
 .home-page .product-spacer {
   flex: 1;
+  margin-bottom: 20px;
 }
 
 .home-page .added-to-cart {
